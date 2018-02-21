@@ -46,4 +46,6 @@ img {
 p.copyright {
   text-align: right;
   color: gray;
+  font-family: Verdana;
+  font-size: 24px;
 }
